@@ -10,7 +10,8 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: '联系方式', link: '/联系方式' },
-      { text: '作业', link:'/作业'}
+      { text: '作业', link: '/作业'},
+      { text: '公众号', link: '/公众号'}
     ],
     footer: {
       copyright: "Copyright@2024 Yue Yihua",
@@ -27,8 +28,7 @@ export default defineConfig({
     // ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/easygl1der' },
-      { icon: 'Official Accounts', link: './公众号.md'}
+      { icon: 'github', link: 'https://github.com/easygl1der' }
     ]
   }
 })
