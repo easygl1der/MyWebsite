@@ -10,9 +10,9 @@ hero:
     - theme: brand
       text: 笔记
       link: /document
-    # - theme: alt
-    #   text: API Examples
-    #   link: /api-examples
+    #  - theme: alt
+    #    text: 文件
+    #    link: 
 
 features:
   - title: Feature A
