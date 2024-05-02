@@ -10,7 +10,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: '联系方式', link: '/联系方式' },
-      { text: '作业', link:'/数学分析II'}
+      { text: '作业', link:'/作业'}
     ],
     footer: {
       copyright: "Copyright@2024 Yue Yihua",
