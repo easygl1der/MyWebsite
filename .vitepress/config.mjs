@@ -12,6 +12,9 @@ export default defineConfig({
       { text: '联系方式', link: '/联系方式' },
       { text: '作业', link:'/数学分析II'}
     ],
+    footer: {
+      copyright: "Copyright@2024 Yue Yihua",
+    },
 
     sidebar: [
       {
