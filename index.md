@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Yueyh Space"
-  text: "A source website of myself"
+  text: "My source website"
   tagline: 过去从未消失，未来已经存在
   actions:
     - theme: brand
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
