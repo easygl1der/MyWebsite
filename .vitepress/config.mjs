@@ -16,19 +16,19 @@ export default defineConfig({
       copyright: "Copyright@2024 Yue Yihua",
     },
 
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
+    // sidebar: [
+    //   {
+    //     text: 'Examples',
+    //     items: [
+    //       { text: 'Markdown Examples', link: '/markdown-examples' },
+    //       { text: 'Runtime API Examples', link: '/api-examples' }
+    //     ]
+    //   }
+    // ],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/easygl1der' },
-      { icon: 'Official Accounts', link: '/公众号'}
+      { icon: 'Official Accounts', link: './公众号.md'}
     ]
   }
 })
