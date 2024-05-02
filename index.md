@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "Yueyh Space"
+  text: "A source website of myself"
+  tagline: 过去从未消失，未来已经存在
   actions:
     - theme: brand
       text: 笔记

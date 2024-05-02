@@ -9,7 +9,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '联系方式', link: '/联系方式' },
+      { text: '作业', link:'/数学分析II'}
     ],
 
     sidebar: [
@@ -23,7 +24,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/easygl1der' },
+      { icon: 'Official Accounts', link: '/公众号'}
     ]
   }
 })
