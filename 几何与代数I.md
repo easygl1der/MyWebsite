@@ -1,6 +1,8 @@
 # 几何与代数I
 
-> 错误比较多，没认真做:joy:
+> **教材**：
+> - <a href="蓝以中 - 2007 - 高等代数简明教程.pdf" download="蓝以中 - 2007 - 高等代数简明教程.pdf">蓝以中《高等代数简明教程》上册</a>
+> - <a href="蓝以中 - 高等代数简明教程（第二版）下册.pdf" download="蓝以中 - 高等代数简明教程（第二版）下册.pdf">蓝以中《高等代数简明教程》下册</a>
 
 - <a href="几代hw_week6~7.docx" download="几代hw_week6~7.docx">第6~7周</a>
 - <a href="几代hw_week8.docx" download="几代hw_week8.docx">第8周</a>

@@ -2,6 +2,10 @@
 
 > 这些作业中错误非常多，也不必指出来了。
 
+> **教材**：
+> - <a href="崔尚斌.++数学分析教程.1.pdf.pdf" download="崔尚斌.++数学分析教程.1.pdf.pdf">崔尚斌《数学分析教程》上册</a>
+> - <a href="崔尚斌.++数学分析教程.2.pdf(1).pdf" download="崔尚斌.++数学分析教程.2.pdf(1).pdf">崔尚斌《数学分析教程》中册</a>
+
 - <a href="数分hw _week4.docx" download="数分hw _week4.docx">第4周</a>
 - <a href="数分hw _week5.docx" download="数分hw _week5.docx">第5周</a>
 - <a href="数分hw_week6~7.docx" download="数分hw_week6~7.docx">第6~7周</a>
