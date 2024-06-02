@@ -20,5 +20,5 @@ features:
   - title: Feature B
     details: 精神分析
   - title: Feature C
-    details: xiaobuerqiaoya
+    details: 人文通识
 ---
