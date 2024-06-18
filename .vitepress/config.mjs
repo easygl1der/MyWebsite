@@ -16,7 +16,7 @@ export default defineConfig({
       { text: '随手记录', link: '/随手记录'}
     ],
     footer: {
-      copyright: "Copyright©2024 Yue Yihua",
+      copyright: "Copyright©2024 Yitwah Yue",
     },
 
     // sidebar: [
