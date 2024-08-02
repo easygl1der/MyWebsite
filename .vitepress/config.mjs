@@ -44,7 +44,7 @@ let nav_tmp = [
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/',
+  base: '/MyWebsite/',
   title: "MySpace",
   description: "A VitePress Site",
   head: [
