@@ -24,23 +24,23 @@ let nav_tmp = [
       }
 ]
 
-let sidebar_tmp ={
-  '/': nav_tmp,
-  '/docs/记录/': [
-    {
-      text: '记录',
-      collapsed: false,
-      items: [
-        { text: '记录', link: '/记录/《齐泽克的笑话》读书札记' },
-        { text: '记录', link: '/记录/《青春咖啡馆》书籍推介' },
-        { text: '记录', link: '/记录/坚硬线、柔软线和逃逸线' },
-        { text: '记录', link: '/记录/朗西埃-被解放的观众' },
-        { text: '记录', link: '/记录/如何优雅地记笔记' },
-        { text: '记录', link: '/记录/A=A' },
-      ]
-    }
-  ],
-}
+// let sidebar_tmp ={
+//   '/': nav_tmp,
+//   '/docs/记录/': [
+//     {
+//       text: '记录',
+//       collapsed: false,
+//       items: [
+//         { text: '记录', link: '/记录/《齐泽克的笑话》读书札记' },
+//         { text: '记录', link: '/记录/《青春咖啡馆》书籍推介' },
+//         { text: '记录', link: '/记录/坚硬线、柔软线和逃逸线' },
+//         { text: '记录', link: '/记录/朗西埃-被解放的观众' },
+//         { text: '记录', link: '/记录/如何优雅地记笔记' },
+//         { text: '记录', link: '/记录/A=A' },
+//       ]
+//     }
+//   ],
+// }
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -109,25 +109,48 @@ export default defineConfig({
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: nav_tmp,
+    // nav: nav_tmp,
+    nav: [
+      { text: '主页', link: '/' },
+          { text: '作业', 
+            items: [
+              { text: '数学分析I', link: 'docs/作业/数学分析I'},
+              { text: '几何与代数I', link: 'docs/作业/几何与代数I'},
+              { text: '数学分析II', link: 'docs/作业/数学分析II'},
+              { text: '几何与代数II', link: 'docs/作业/几何与代数II'},
+            ]
+          },
+          { text: '公众号', link: '/公众号'},
+          { text: '数学生涯', link: '/数学生涯'},
+          { text: '记录', 
+            items: [
+              { text: '《齐泽克的笑话》', link: '/docs/记录/《齐泽克的笑话》读书札记' },
+              { text: '《青春咖啡馆》', link: '/docs/记录/《青春咖啡馆》书籍推介' },
+              { text: '坚硬线、柔软线和逃逸线', link: '/docs/记录/坚硬线、柔软线和逃逸线' },
+              { text: '朗西埃-被解放的观众', link: '/docs/记录/朗西埃-被解放的观众' },
+              { text: '如何优雅地记笔记', link: '/docs/记录/如何优雅地记笔记' },
+              { text: 'A=A', link: '/docs/记录/A=A' },
+            ]
+          }
+    ],
     // sidebar: sidebar_tmp,
     // outline: [2, 3, 4],
     footer: {
       copyright: "Copyright©2024 Yitwah Yue",
     },
-    docFooter: {
-      prev: '上一篇',
-      next: '下一篇',
-    },
-    outlineTitle: "本页目录",
-    lastUpdated: true,
-    markdown: {
-      lineNumbers: true,
-      image: {
-        // 默认禁用图片懒加载
-        lazyLoading: true
-      }
-    },
+    // docFooter: {
+    //   prev: '上一篇',
+    //   next: '下一篇',
+    // },
+    // outlineTitle: "本页目录",
+    // lastUpdated: true,
+    // markdown: {
+    //   lineNumbers: true,
+    //   image: {
+    //     // 默认禁用图片懒加载
+    //     lazyLoading: true
+    //   }
+    // },
     search: {
       provider: 'local'
     },

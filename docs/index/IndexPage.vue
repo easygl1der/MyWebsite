@@ -37,10 +37,10 @@ const changeBgHeight = () => {
 	const headerHeight = header.clientHeight;
 	console.log(headerHeight)
 	const bg1 = document.querySelector('#bg');
-	// bg.style.height = `calc(100vh)`;
-	// bg1.style.height = `calc(100vh)`;
-	bg.style.height = `calc(100vh - ${headerHeight}px)`;
-	bg1.style.height = `calc(100vh - ${headerHeight}px)`;
+	bg.style.height = `calc(100vh)`;
+	bg1.style.height = `calc(100vh)`;
+	// bg.style.height = `calc(100vh - ${headerHeight}px)`;
+	// bg1.style.height = `calc(100vh - ${headerHeight}px)`;
 
 
 	console.log('背景图片高度', bg.clientHeight)
