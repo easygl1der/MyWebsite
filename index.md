@@ -32,7 +32,7 @@ sidebar: false
 
 
 <script setup>
-import IndexPage from './index/IndexPage.vue';
+import IndexPage from './docs/index/IndexPage.vue';
 </script>
 
 
