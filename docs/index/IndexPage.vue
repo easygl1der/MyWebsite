@@ -47,28 +47,28 @@ const changeBgHeight = () => {
 }
 // 图片列表
 const images = [
-	'imgs/bg/small_1.jpg',
-	'imgs/bg/small_4.jpg',
-	'imgs/bg/small_5.jpg',
-	'imgs/bg/small_6.jpg',
-	'imgs/bg/small_7.jpg',
-	'imgs/bg/small_8.jpg',
-	'imgs/bg/small_9.jpg',
-	'imgs/bg/small_10.jpg',
-	'imgs/bg/small_11.jpg',
-	'imgs/bg/small_12.jpg',
-	'imgs/bg/small_13.jpg',
-	'imgs/bg/small_14.jpg',
-	'imgs/bg/small_15.jpg',
-	'imgs/bg/small_16.jpg',
-	'imgs/bg/small_17.jpg',
-	// 'imgs/bg/small_18.jpg',
+	'docs/imgs/bg/small_1.jpg',
+	'docs/imgs/bg/small_4.jpg',
+	'docs/imgs/bg/small_5.jpg',
+	'docs/imgs/bg/small_6.jpg',
+	'docs/imgs/bg/small_7.jpg',
+	'docs/imgs/bg/small_8.jpg',
+	'docs/imgs/bg/small_9.jpg',
+	'docs/imgs/bg/small_10.jpg',
+	'docs/imgs/bg/small_11.jpg',
+	'docs/imgs/bg/small_12.jpg',
+	'docs/imgs/bg/small_13.jpg',
+	'docs/imgs/bg/small_14.jpg',
+	'docs/imgs/bg/small_15.jpg',
+	'docs/imgs/bg/small_16.jpg',
+	'docs/imgs/bg/small_17.jpg',
+	// 'docs/imgs/bg/small_18.jpg',
 
-	'imgs/bg/small_1.png',
-	'imgs/bg/small_2.png',
-	'imgs/bg/small_3.png',
-	'imgs/bg/small_4.png',
-	'imgs/bg/small_5.png',
+	'docs/imgs/bg/small_1.png',
+	'docs/imgs/bg/small_2.png',
+	'docs/imgs/bg/small_3.png',
+	'docs/imgs/bg/small_4.png',
+	'docs/imgs/bg/small_5.png',
 
 ];
 
@@ -166,9 +166,9 @@ body::-webkit-scrollbar {
 	position: absolute;
 	justify-content: center;
 	align-items: center;
-	/* background-image: url('imgs/bg/small_1.jpg'); */
-	/* background-image: url('imgs/bg/small_1.jpg'); */
-	/* background-image: url('imgs/bg/1.jpg'); */
+	/* background-image: url('docs/imgs/bg/small_1.jpg'); */
+	/* background-image: url('docs/imgs/bg/small_1.jpg'); */
+	/* background-image: url('docs/imgs/bg/1.jpg'); */
 	/* background-size: cover; */
 	background-size: 100 auto;
 	/* background-size: cover; */
@@ -190,9 +190,9 @@ body::-webkit-scrollbar {
 	position: relative;
 	justify-content: center;
 	align-items: center;
-	/* background-image: url('imgs/bg/small_2.png'); */
-	/* background-image: url('imgs/bg/small_1.jpg'); */
-	/* background-image: url('imgs/bg/1.jpg'); */
+	/* background-image: url('docs/imgs/bg/small_2.png'); */
+	/* background-image: url('docs/imgs/bg/small_1.jpg'); */
+	/* background-image: url('docs/imgs/bg/1.jpg'); */
 	background-size: contain;
 	/* background-size: 100% auto; */
 	/* background-size: cover; */
