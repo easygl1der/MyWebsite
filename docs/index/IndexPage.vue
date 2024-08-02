@@ -84,6 +84,7 @@ const setRandomBackgroundImage = () => {
 	randomImage.value = a;
 	console.log('改变了背景，', randomImage.value)
 }
+
 onMounted(
 	() => {
 		const options = {
