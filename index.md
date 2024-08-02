@@ -1,4 +1,4 @@
----
+<!-- ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
@@ -21,4 +21,21 @@ features:
     details: 精神分析
   - title: Feature C
     details: 人文通识
+--- -->
+
 ---
+
+layout: home
+
+sidebar: false
+---
+
+
+<script setup>
+import IndexPage from './index/IndexPage.vue';
+</script>
+
+
+<IndexPage/>
+
+
