@@ -112,7 +112,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: nav_tmp,
     // sidebar: sidebar_tmp,
-    outline: [2, 3, 4],
+    // outline: [2, 3, 4],
     footer: {
       copyright: "Copyright©2024 Yitwah Yue",
     },
