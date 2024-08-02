@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 let nav_tmp = [
   { text: '主页', link: '/' },
-      { text: '联系方式', link: '/联系方式' },
       { text: '作业', 
         items: [
           { text: '数学分析I', link: 'docs/作业/数学分析I'},
