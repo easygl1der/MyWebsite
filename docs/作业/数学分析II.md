@@ -8,7 +8,7 @@
 > - <a href="public\Book\崔尚斌.++数学分析教程.2.pdf(1).pdf" download="public\Book\崔尚斌.++数学分析教程.2.pdf(1).pdf">崔尚斌《数学分析教程》中册</a>
 > - <a href="public\Book\数学分析教程（崔尚斌）下册.pdf" download="public\Book\数学分析教程（崔尚斌）下册.pdf">崔尚斌《数学分析教程》下册</a>
 
-- <a href="../第2次 乐绎华 23363017.pdf" download="public\作业\第2次 乐绎华 23363017.pdf">第2次作业 </a>
+- <a href="public\作业\第2次 乐绎华 23363017.pdf" download="public\作业\第2次 乐绎华 23363017.pdf">第2次作业 </a>
 - <a href="public\作业\第3次 乐绎华 23363017.pdf" download="public\作业\第3次 乐绎华 23363017.pdf">第3次作业 </a>
 - <a href="public\作业\第4次 乐绎华 23363017.pdf" download="public\作业\第4次 乐绎华 23363017.pdf">第4次作业 </a>
 - <a href="public\作业\第5次 乐绎华 23363017.pdf" download="public\作业\第5次 乐绎华 23363017.pdf">第5次作业 </a>
