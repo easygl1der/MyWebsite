@@ -8,7 +8,7 @@
 
 			<div id="big-bg" :style="{ backgroundImage: `url(${randomImage})` }">
 				<div>
-					<img id="index-logo" src="/logo.png">
+					<img id="index-logo" src="/gif/ikun.gif">
 				</div>
 				<div id="box-cursor">
 					<span id="box"></span>
@@ -67,7 +67,7 @@ const images = [
 	'imgs/bg/small_1.png',
 	'imgs/bg/small_2.png',
 	'imgs/bg/small_3.png',
-	'imgs/bg/small_4.png',
+	// 'imgs/bg/small_4.png',
 	'imgs/bg/small_5.png',
 
 ];

@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "element-plus": "^2.7.8",
+    "oh-my-live2d": "^0.19.3",
     "typed.js": "^2.1.0"
   }
 }
