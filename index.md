@@ -36,6 +36,14 @@ import IndexPage from './docs/index/IndexPage.vue';
 </script>
 
 
+
 <IndexPage/>
 
-
+<!-- <style scoped>
+.container {
+  display: flex;
+  justify-content: center; /* 水平居中 */
+  align-items: center;     /* 垂直居中 */
+  height: 100vh;           /* 让容器的高度为视口高度的 100% */
+}
+</style> -->
