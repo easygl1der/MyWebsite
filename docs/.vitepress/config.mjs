@@ -12,7 +12,7 @@ export default defineConfig({
       `
       function runtime(){
         // 初始时间，日/月/年 时:分:秒
-        X = new Date("3/5/2024 15:32:00");
+        X = new Date("5/3/2024 15:32:00");
         Y = new Date();
         T = (Y.getTime()-X.getTime());
         M = 24*60*60*1000;
