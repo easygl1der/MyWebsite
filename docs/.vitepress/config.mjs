@@ -53,6 +53,10 @@ export default defineConfig({
           {text: '几何与代数I', link: '/作业/几何与代数I'},
           {text: '数学分析II',link: '/作业/数学分析II'},
           {text: '几何与代数II', link: '/作业/几何与代数II'},
+          {text: '数学分析III',link: '/作业/数学分析III'},
+          {text: '概率论', link: '/作业/概率论'},
+          {text: '数值分析', link: '/作业/数值分析'},
+          {text: '常微分方程', link: '/作业/常微分方程'},
         ]
       }
     ],
@@ -84,6 +88,10 @@ export default defineConfig({
             {text: '几何与代数I', link: '/作业/几何与代数I'},
             {text: '数学分析II',link: '/作业/数学分析II'},
             {text: '几何与代数II', link: '/作业/几何与代数II'},
+            {text: '数学分析III',link: '/作业/数学分析III'},
+            {text: '概率论', link: '/作业/概率论'},
+            {text: '数值分析', link: '/作业/数值分析'},
+            {text: '常微分方程', link: '/作业/常微分方程'},
           ]
         }
         
