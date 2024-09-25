@@ -7,14 +7,14 @@
 > - [蓝以中《高等代数简明教程》下册](/Book/蓝以中%20-%20高等代数简明教程（第二版）下册.pdf)
 
 
-- <a href="/作业/几代hw_week6~7.docx" download="几代hw_week6~7.docx">第6~7周</a>
-- <a href="/作业/几代hw_week8.docx" download="几代hw_week8.docx">第8周</a>
-- <a href="/作业/几代hw_week9.docx" download="几代hw_week9.docx">第9周</a>
-- <a href="/作业/几代hw_week10.docx" download="几代hw_week10.docx">第10周</a>
-- <a href="/作业/几代hw_week11.docx" download="几代hw_week11.docx">第11周</a>
-- <a href="/作业/几代hw_week12.docx" download="几代hw_week12.docx">第12周</a>
-- <a href="/作业/几代hw_week13.docx" download="几代hw_week13.docx">第13周</a>
-- <a href="/作业/几代hw_week14.docx" download="几代hw_week14.docx">第14周</a>
-- <a href="/作业/几代hw_week15.docx" download="几代hw_week15.docx">第15周</a>
-- <a href="/作业/几代hw_week16.docx" download="几代hw_week16.docx">第16周</a>
-- <a href="/作业/几代hw_week17.docx" download="几代hw_week17.docx">第17周</a>
+- [第6~7周](几代hw_week6~7.pdf)
+- [第8周](几代hw_week8.pdf)
+- [第9周](几代hw_week9.pdf)
+- [第10周](几代hw_week10.pdf)
+- [第11周](几代hw_week11.pdf)
+- [第12周](几代hw_week12.pdf)
+- [第13周](几代hw_week13.pdf)
+- [第14周](几代hw_week14.pdf)
+- [第15周](几代hw_week15.pdf)
+- [第16周](几代hw_week16.pdf)
+- [第17周](几代hw_week17.pdf)
