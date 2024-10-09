@@ -57,6 +57,7 @@ export default defineConfig({
           {text: '概率论', link: '/作业/概率论'},
           {text: '数值分析', link: '/作业/数值分析'},
           {text: '常微分方程', link: '/作业/常微分方程'},
+          {text: '代数拓扑', link: '/作业/代数拓扑'},
         ]
       }
     ],
