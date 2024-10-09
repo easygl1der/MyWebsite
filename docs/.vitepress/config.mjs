@@ -34,7 +34,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '笔记', link: '/笔记/笔记'},
+      { text: '笔记', link: '/笔记/笔记', class: 'narrow-sidebar-item' },
       { text: '数学生涯', link: '/数学生涯/数学生涯'},
       { text: '测试', link: '/测试/test'},
       { text: '记录', 
@@ -92,6 +92,7 @@ export default defineConfig({
             {text: '概率论', link: '/作业/概率论'},
             {text: '数值分析', link: '/作业/数值分析'},
             {text: '常微分方程', link: '/作业/常微分方程'},
+            {text: '代数拓扑', link: '/作业/代数拓扑'},
           ]
         }
         
