@@ -59,7 +59,8 @@ export default defineConfig({
           {text: '常微分方程', link: '/作业/常微分方程'},
           {text: '代数拓扑', link: '/作业/代数拓扑'},
         ]
-      }
+      },
+      {text: '书籍', link: '/书籍/书籍'}
     ],
 
     sidebar: {
