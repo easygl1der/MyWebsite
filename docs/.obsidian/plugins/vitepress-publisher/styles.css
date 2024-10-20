@@ -1,0 +1,87 @@
+.vitepress-ribbon-icon-hide {
+	display: none;
+}
+
+.vitepress-debug-console {
+	--dialog-width: 75%;
+}
+
+.vitepress-clear-button {
+	margin-top: 8px;
+}
+
+.vitepress-debug-console .modal-content {
+	white-space: pre-line;
+	user-select: text;
+	overflow: auto;
+}
+
+.vite-press-publisher-folder-config {
+	display: flex;
+	gap: 8px;
+	padding: 0 12px 12px;
+	flex-wrap: wrap;
+}
+
+.vite-press-publisher-folder-config .switch-box {
+	display: flex;
+	align-items: center;
+}
+
+.setting-item-info__hide .setting-item-info {
+	display: none;
+}
+
+.setting-item-info__hide .setting-item-control {
+	justify-content: flex-start;
+}
+
+.setting-item-info__hide {
+	border-top: none;
+	padding-bottom: 0;
+}
+
+.vitepress-setting-warning {
+	padding: 0 8px 12px;
+}
+
+.vitepress-setting-warning span {
+	color: #CB3030FF;
+	font-size: 0.9em;
+}
+
+.vitepress-setting-sub {
+	margin-left: 50px;
+	white-space: pre;
+}
+
+.vitepress-ml-4 {
+	margin-left: 4px;
+}
+
+.vitepress-setting-warningtext {
+	white-space: pre;
+}
+
+.vitepress-setting-max-width {
+	white-space: pre;
+	flex: 1;
+	max-width: 250px;
+}
+
+.obsidian-setting-required .setting-item-name::before {
+	content: " * ";
+	color: #CB3030FF;
+}
+
+.vitepress-log-green {
+	color: green;
+}
+
+.vitepress-log-error {
+	color: red;
+}
+
+.vitepress-log-warning {
+	color: #f5be05;
+}

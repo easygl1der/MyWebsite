@@ -1,0 +1,33 @@
+{
+  "command_timeout": 6,
+  "templates_folder": "88-Template",
+  "templates_pairs": [
+    [
+      "tianqi",
+      "curl -H \"Accept-Language: zh-CN\" \"wttr.in/zhengzhou?format=%c+%F0%9F%8C%A1%t\""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "88-Template/script/template",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "50-Inbox",
+      "template": "88-Template/tp/tp-笔记收集箱.md"
+    },
+    {
+      "folder": "/",
+      "template": "88-Template/tp/tp-自动选择模板.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [],
+  "enable_ribbon_icon": true
+}

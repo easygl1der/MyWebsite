@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "MyPage",
@@ -34,7 +35,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '笔记', link: '/笔记/笔记', class: 'narrow-sidebar-item' },
+      { text: '笔记', link: '/笔记/笔记'},
       { text: '数学生涯', link: '/数学生涯/数学生涯'},
       { text: '测试', link: '/测试/test'},
       { text: '记录', 
@@ -60,7 +61,8 @@ export default defineConfig({
           {text: '代数拓扑', link: '/作业/代数拓扑'},
         ]
       },
-      {text: '书籍', link: '/书籍/书籍'}
+      {text: '书籍', link: '/书籍/书籍'},
+      {text: 'From Ob', link: '/From Ob/Obsidian notes'}
     ],
 
     sidebar: {
@@ -97,9 +99,33 @@ export default defineConfig({
             {text: '代数拓扑', link: '/作业/代数拓扑'},
           ]
         }
-        
-
       ],
+      '/From Ob/': [
+        {
+          text: 'From Ob',
+          collapsed: false,
+          items: [
+            {text: 'Obsidian notes', link: '/From Ob/Obsidian notes'}
+          ]
+        },
+        {
+          text: 'less-than-nothing',
+          collapsed: false,
+          items: [
+            {text: 'joke-about-a-waiter', link: '/From Ob/less-than-nothing/joke-about-a-waiter'},
+            {text: 'less-than-nothing', link: '/From Ob/less-than-nothing/less-than-nothing.md'},
+            {text: 'mysterious-tendency-for-antonyms', link: '/From Ob/less-than-nothing/mysterious-tendency-for-antonyms.md'}
+          ]
+        },
+        {
+          text: "ode",
+          collapsed: false,
+          items: [
+            {text: '微分方程数值解', link: '/From Ob/ode/微分方程数值解.md'},
+            {text: '积分因子法', link: '/From Ob/ode/积分因子法.md'}
+          ]
+        }
+      ]
     },
 
     socialLinks: [
@@ -115,7 +141,10 @@ export default defineConfig({
     optimizeDeps: {
       include: ['pdf'], // 将pdf文件添加到include数组中
       exclude: [], // 排除其他不需要优化的文件类型
-    },
+    }
+  },
+  markdown: {
+    math: true
   }
 })
 

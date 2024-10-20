@@ -1,0 +1,17 @@
+{
+  "publishedContentList": [
+    {
+      "name": "From Ob",
+      "isFolder": true
+    }
+  ],
+  "needCleanDirFolder": false,
+  "useDataView": false,
+  "useDataViewJs": false,
+  "vitepressDir": "F:\\GithubLocalRepository\\MyWebsite",
+  "vitepressSrcDir": "F:\\GithubLocalRepository\\MyWebsite",
+  "vitepressStaticDir": "",
+  "deployScriptPath": "",
+  "ignoreFileRegex": "^_",
+  "autoSyncMdFile": true
+}

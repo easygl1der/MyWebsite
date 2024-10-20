@@ -1,0 +1,52 @@
+{
+  "callouts": {
+    "custom": [
+      "proposition"
+    ],
+    "settings": {
+      "def": [
+        {
+          "changes": {
+            "icon": "lucide-calendar-heart",
+            "color": "166, 189, 197"
+          }
+        }
+      ],
+      "lem": [
+        {
+          "changes": {
+            "color": "227, 107, 167"
+          }
+        }
+      ],
+      "cor": [
+        {
+          "changes": {
+            "icon": "lucide-badge-plus",
+            "color": "208, 181, 48"
+          }
+        }
+      ],
+      "proposition": [
+        {
+          "changes": {
+            "icon": "lucide-brackets",
+            "color": "251, 70, 76"
+          }
+        }
+      ],
+      "thm": [
+        {
+          "changes": {
+            "icon": "lucide-bookmark-plus"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

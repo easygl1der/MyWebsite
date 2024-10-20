@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "f341d036a393dae6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee264664b1e9df68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b62891fae4edf70",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b473bbe2baf44e38",
+    "type": "split",
+    "children": [
+      {
+        "id": "16e96c44c1e05c10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c7bab5c2afeb80b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f230356e945c7388",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "伯努利",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "06b3e3395764893d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "right": {
+    "id": "71cdae10930f3b57",
+    "type": "split",
+    "children": [
+      {
+        "id": "153049cbe79fb3cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "600add7cda26eb14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian笔记/范畴论/On Caratheodory' Extension/A categorical proof of Caratheodory Extension Theorem.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "A categorical proof of Caratheodory Extension Theorem 的反向链接列表"
+            }
+          },
+          {
+            "id": "5b2be5e6cad809f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian笔记/范畴论/On Caratheodory' Extension/A categorical proof of Caratheodory Extension Theorem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "A categorical proof of Caratheodory Extension Theorem 的出链列表"
+            }
+          },
+          {
+            "id": "1849a6fbe4fd6146",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "31d54279c7a21f70",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "e3d81818c7729cd5",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "27ab0ee4b2bf39bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian笔记/写作业/数分作业/第三学期.数分/ma_week6.md"
+              },
+              "icon": "lucide-list",
+              "title": "ma_week6 的大纲"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 486.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "callout-manager:Insert Callout": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian42-brat:BRAT": false,
+      "copilot:Copilot Chat": false,
+      "templater-obsidian:Templater": false,
+      "marp:Marp: Open Preview": false
+    }
+  },
+  "active": "6b62891fae4edf70",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-10-21 00.59.15.excalidraw.md",
+    "Obsidian笔记/泛函等式与不等式/Cauchy's equation.md",
+    "Obsidian笔记/写作业/数分作业/第三学期.数分/ma_week6.md",
+    "Obsidian笔记/泛函等式与不等式",
+    "数学/分析/Functional equations and inequalities with applications (Palaniappan Kannappan (auth.)) (Z-Library).pdf",
+    "Obsidian笔记/2024-10-20.md",
+    "数p的图片/v2-ed702c0750c5531c770709b82ae28b9b_xl.png",
+    "数p的图片/v2-ed702c0750c5531c770709b82ae28b9b_xl.png.crdownload",
+    "Obsidian笔记/写作业/数分作业/第三学期.数分/数学分析简明教程（下册） 第二版 (邓东皋 尹小玲) (Z-Library) (1).pdf",
+    "数学/拓扑/Elements of algebraic topology (Munkres, James R) (Z-Library).pdf",
+    "Obsidian笔记/写作业/概率论作业/prob_week5.md",
+    "Obsidian笔记/写作业/概率论作业/prob_week6.md",
+    "Obsidian笔记/写作业/代数拓扑/at_week2.md",
+    "Obsidian笔记/写作业/代数拓扑/at_hw1.md",
+    "Obsidian笔记/范畴论/伴随/union&intersection under mapping.md",
+    "Obsidian笔记/范畴论/伴随/R-S bimodule.md",
+    "Obsidian笔记/范畴论/伴随/propositional function.md",
+    "Obsidian笔记/范畴论/伴随/伴随.md",
+    "Obsidian笔记/范畴论/伴随/自由是遗忘的左伴随.md",
+    "Obsidian笔记/范畴论/伴随/ceiling and floor functions.md",
+    "Obsidian笔记/范畴论/伴随/direct and inverse image functors.md",
+    "Obsidian笔记/范畴论/伴随/basic arithmetic.md",
+    "Obsidian笔记/范畴论/伴随/discrete and indiscrete topology.md",
+    "Obsidian笔记/范畴论/伴随/Galois connection.md",
+    "Obsidian笔记/范畴论/伴随/LAPC&RAPL in homological algebra.md",
+    "Obsidian笔记/代数学/抽象代数刷题/刷题1.5.md",
+    "Obsidian笔记/代数学/抽象代数刷题/刷题.md",
+    "Obsidian笔记/代数学/抽象代数刷题/近世代数.md",
+    "数学/概率/Solutions-Durrett-Probability-Theory-and-Examples-PDF.pdf",
+    "images/1-prob_week6-20241018.png",
+    "images/prob_week6-20241018.png",
+    "Obsidian笔记/范畴论/On Caratheodory' Extension/A categorical proof of Caratheodory Extension Theorem.md",
+    "数学/范畴论/A categorical version of Caratheodory Theorem.pdf",
+    "数学/范畴论/2210.01720v4.pdf",
+    "数学/范畴论/2210.01720v4.pdf.crdownload",
+    "Obsidian笔记/范畴论/On Caratheodory' Extension",
+    "Obsidian笔记/计算数学/数值分析.md",
+    "Obsidian笔记/写作业/ode作业/ode_week5.md",
+    "Obsidian笔记/写作业/ode作业/ode_week3.md",
+    "images/屏幕截图 2024-10-15 175521.png",
+    "images/Pasted image 20241016002347.png",
+    "images/Pasted image 20241016002340.png",
+    "images/2-prob_week5-20241015.png",
+    "images/3-na_week5-20241015.png",
+    "images/2-na_week5-20241015.png",
+    "images/1-na_week5-20241015.png",
+    "未命名.canvas",
+    "Obsidian笔记/微分拓扑/未命名.canvas",
+    "未命名 1.canvas",
+    "Blue-topaz-example-main/60-Canvas/代码块相关样式_middle.canvas",
+    "Blue-topaz-example-main/60-Canvas/示例库结构一览.canvas",
+    "Blue-topaz-example-main/60-Canvas/画板主页.canvas",
+    "Blue-topaz-example-main/60-Canvas/TIPS.canvas",
+    "Blue-topaz-example-main/60-Canvas/Home_middle.canvas",
+    "Blue-topaz-example-main/60-Canvas/canvas白板介绍_middle.canvas",
+    "Blue-topaz-example-main/60-Canvas/Formatting_Cheatsheet.canvas"
+  ]
+}

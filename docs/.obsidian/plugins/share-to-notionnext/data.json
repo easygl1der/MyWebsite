@@ -1,0 +1,33 @@
+{
+  "NextButton": true,
+  "notionAPINext": "",
+  "databaseIDNext": "",
+  "bannerUrl": "",
+  "notionUser": "Equation",
+  "NotionLinkDisplay": true,
+  "proxy": "",
+  "GeneralButton": true,
+  "tagButton": true,
+  "customTitleButton": false,
+  "customTitleName": "",
+  "notionAPIGeneral": "",
+  "databaseIDGeneral": "",
+  "CustomButton": false,
+  "CustomValues": "",
+  "notionAPICustom": "",
+  "databaseIDCustom": "",
+  "databaseDetails": {
+    "ob->n": {
+      "format": "general",
+      "fullName": "ob_to_notion",
+      "abName": "ob->n",
+      "notionAPI": "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",
+      "databaseID": "https://factual-microwave-09f.notion.site/11d93143405080e5aac2c308544917be?v=5310a868fc854fe78152ab2ecbcc9e01&pvs=4",
+      "tagButton": true,
+      "customTitleButton": false,
+      "customTitleName": "",
+      "customProperties": [],
+      "saved": true
+    }
+  }
+}

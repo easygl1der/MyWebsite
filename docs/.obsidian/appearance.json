@@ -1,0 +1,18 @@
+{
+  "accentColor": "",
+  "baseFontSize": 18,
+  "textFontFamily": "Comic Sans MS",
+  "theme": "obsidian",
+  "cssTheme": "Tokyo Night",
+  "enabledCssSnippets": [
+    "custom-admonitions.c9c6cb",
+    "【日记】Time",
+    "【图标】预览网址加图标 - External Link Icons",
+    "【自定义】彩色时钟样式",
+    "【自定义】myhome 样式",
+    "【自定义】mytools 样式",
+    "【Linkcard】",
+    "【callout】Custom page preview",
+    "yaozhuwa@CSS"
+  ]
+}

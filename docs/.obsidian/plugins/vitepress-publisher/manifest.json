@@ -1,0 +1,10 @@
+{
+	"id": "vitepress-publisher",
+	"name": "Vitepress Publisher",
+	"version": "1.2.0",
+	"minAppVersion": "0.15.0",
+	"description": "This is an plugin for more convenient preview and publishing of .md files using vitepress",
+	"author": "mistj",
+	"authorUrl": "https://mistj.com",
+	"isDesktopOnly": true
+}
