@@ -122,7 +122,40 @@ export default defineConfig({
           collapsed: false,
           items: [
             {text: '微分方程数值解', link: '/From Ob/ode/微分方程数值解.md'},
-            {text: '积分因子法', link: '/From Ob/ode/积分因子法.md'}
+            {text: '积分因子法', link: '/From Ob/ode/积分因子法.md'},
+            {text: 'preface', link: '/From Ob/ode/Arnold-ode/basic thms/preface.md'},
+            {text: 'Rectification thms', link: '/From Ob/ode/Arnold-ode/basic thms/Rectification thms.md'},
+            {text: 'Contraction Mappings', link: '/From Ob/ode/Arnold-ode/Proofs of main thms/Contraction Mappings.md'},
+            {text: 'Differentiability and Lipschitz Condition', link: '/From Ob/ode/Arnold-ode/Proofs of main thms/thms on Existence/Differentiability and Lipschitz Condition.md'},
+            {text: 'The successive Approximation of Picard', link: '/From Ob/ode/Arnold-ode/Proofs of main thms/thms on Existence/The successive Approximation of Picard.md'}
+          ]
+        },
+        {
+          text: '代数几何',
+          collapsed: false,
+          items: [
+            {text: 'note1', link: '/From Ob/代数几何/note1.md'},
+            {text: 'k-algebra homomorphism', link: '/From Ob/代数几何/k-algebra homomorphism.md'},
+            {text: 'k-algebra', link: '/From Ob/代数几何/k-algebra.md'},
+            {text: '单位分解', link: '/From Ob/代数几何/单位分解.md'},
+            {text: '坐标环', link: '/From Ob/代数几何/坐标环.md'}
+          ]
+        },
+        {
+          text: '代数学',
+          collapsed: false,
+          items: [
+            {text: '群表示论', link: '/From Ob/代数学/群表示论.md'},
+            {text: 'compactness of linear groups', link: '/From Ob/代数学/Artin/线性群/compactness of linear groups.md'},
+            {text: 'connectness of linear groups', link: '/From Ob/代数学/Artin/线性群/connectness of linear groups.md'},
+            {text: 'equator of SU_2', link: '/From Ob/代数学/Artin/线性群/equator of SU_2.md'},
+            {text: 'equator--conjugate class', link: '/From Ob/代数学/Artin/线性群/equator--conjugate class.md'},
+            {text: 'geometric SO_3', link: '/From Ob/代数学/Artin/线性群/geometric SO_3.md'},
+            {text: 'path in GL_n', link: '/From Ob/代数学/Artin/线性群/path in GL_n.md'},
+            {text: 'topological structure on groups', link: '/From Ob/代数学/Artin/线性群/topological structure on groups.md'},
+            {text: '线性群', link: '/From Ob/代数学/Artin/线性群/线性群.md'}
+
+
           ]
         }
       ]
