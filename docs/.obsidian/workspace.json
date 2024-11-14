@@ -171,6 +171,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "vitepress-publisher:start vitepress": false,
       "graph:查看关系图谱": false,
       "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
@@ -184,8 +186,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian42-brat:BRAT": false,
       "copilot:Copilot Chat": false,
-      "templater-obsidian:Templater": false,
-      "marp:Marp: Open Preview": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "6b62891fae4edf70",
